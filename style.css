@@ -1,0 +1,110 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    margin: 0%;
+    height: 250vh;
+}
+
+.container-fluid{
+    background-color: rgba(244, 3, 3, 0.621);
+    height: 60px;
+    font-weight: 700;  
+}
+.carousel-item h5{
+    font-size: 30px;
+    font-weight: 600;
+    color: aliceblue;
+}
+.carousel-item p{
+    font-size: 20px;
+    color: aliceblue;
+}
+.image-head img{
+    width:100%;
+}
+.text h1{
+    font-size: 50px;
+    font-style: italic;
+    margin:40px 0 10px 20px ;
+    font-weight: 700;
+    line-height:0.5;  
+}
+b{
+color: rgba(255, 0, 0, 0.667);
+}
+p{
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 15px;
+    font-style:normal;
+    margin-left: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.text button{
+    margin-top: 30px;
+    margin-left: 20px;
+    width: 150px;
+    height: 40px;
+}
+#start{
+    font-weight: 600;
+    font-size: 17px;
+    background-color: rgba(246, 12, 12, 0.795);
+    color: white;
+    border-radius: 7px;
+    border-color: rgba(226, 21, 21, 0.733);
+}
+#ordernow{
+    background-color: black;
+    color: aliceblue;
+    font-size: 17px;
+    font-weight: 600;
+    border-radius: 7px;
+}
+.card-container{
+margin: 50px;
+}
+.card-img-top{
+    height: 200px;
+}
+ .wrap img{
+    width: 700px;
+}
+.wrap h2{
+    margin-top: 50px;
+    font-size: 50px;
+    font-weight: 700;
+    text-align: center;
+}
+.wrap p{
+    font-family:serif;
+    line-height: 24px;
+}
+button{
+    width: 250px;
+    height: 45px;
+    background-color:rgb(247, 252, 248);
+    font-size: 50px;
+    font-weight: 700;
+    border-radius: 10px;
+    border-color: rgb(35, 243, 60);
+}
+button:hover{
+background-color: rgb(49, 240, 84);
+}
+.footer{
+    background-color: rgba(240, 10, 10, 0.142);
+    width: 100%;
+    height: 300px;
+    margin-top: 50px;
+    color: rgba(249, 9, 9, 0.952);
+}
+h3{
+    margin-left: 20px;
+}
+ h4{
+    margin-left: 20px;
+ }
